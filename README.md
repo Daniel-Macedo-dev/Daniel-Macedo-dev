@@ -15,5 +15,5 @@
  <a href="https://github.com/Daniel-Macedo-dev">
 <img height= "180" src="https://github-readme-stats.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
    
-![Snake animation](https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/output/github-contribution-grid-snake.svg)
 </div>
