@@ -16,7 +16,7 @@
 </div>
     
 <div style="display: inline_block"><br> 
-  <a href="Discordapp.com/users/502983199069044738" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/ffsGeFJw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:danielmacedosilva11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/output/github-contribution-grid-snake.svg)
