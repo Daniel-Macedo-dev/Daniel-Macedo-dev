@@ -6,6 +6,8 @@
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Daniel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img align="center" alt="Daniel-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img align="center" alt="Daniel-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
+  <img align="center" alt="Daniel-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
   <img align="right" width="100px" alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" />
 </div>
 
