@@ -15,7 +15,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=4&theme=midnight-purple"/>
 </div>
 
-## 📫 Contato
+## 📫 Contacts
 <div>
   <a href="https://discord.gg/ffsGeFJw" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
