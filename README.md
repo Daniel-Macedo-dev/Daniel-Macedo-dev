@@ -12,20 +12,19 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="right" width="130px" alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" />
 </div>
 
-<br><br><br> <!-- Espaço extra para o GIF -->
+<img align="right" width="100px" alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" style="margin-top: 10px;" />
+
+<br><br><br>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=4&theme=midnight-purple"/>
+<div align="center" style="margin-top: 50px;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&cache_seconds=180" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=4&theme=midnight-purple&cache_seconds=180"/>
 </div>
 
 ## 📬 Contact
-
 <div>
   <a href="https://discord.gg/wTCJUGUJ" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
