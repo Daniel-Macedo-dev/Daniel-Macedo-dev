@@ -12,15 +12,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img align="right" width="150px" alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" />
 </div>
 
-<br>
-
-<div align="center">
-  <img width="300px" alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" />
-</div>
-
-<br>
+<br><br>
 
 ## 📊 GitHub Stats
 
