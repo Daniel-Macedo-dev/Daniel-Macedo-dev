@@ -1,10 +1,12 @@
 <img src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/BannerCyberpunk.png" alt="Banner Cyberpunk" width="100%" />
 
-### "The net is vast and infinite."
+<h2 align="center">"The net is vast and infinite."</h2>
+
+---
 
 ## 🛠️ Tech Stack
 
-<div style="display: inline_block"><br>
+<div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -14,18 +16,26 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
-<img align="right" width="150px" alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" />
-
 <br>
 
+<p align="right">
+  <img width="150px" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" alt="DanielCyberpunk" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
+
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=4&theme=midnight-purple"/>
 </div>
 
+---
+
 ## 📬 Contact
-<div>
+
+<div align="center">
   <a href="https://discord.gg/wTCJUGUJ" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
@@ -37,6 +47,6 @@
   </a>
 </div>
 
-<br>
+---
 
 ![Snake animation](https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/output/github-contribution-grid-snake.svg)
