@@ -1,5 +1,3 @@
-# ![Banner](https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Banner-Cyberpunk.png)
-
 ### "The net is vast and infinite."
 
 <div style="display: inline_block"><br>
