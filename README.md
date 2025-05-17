@@ -1,8 +1,12 @@
 <img src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/BannerCyberpunk.png" alt="Banner Cyberpunk" width="100%" />
 
-### "The net is vast and infinite."
+<p align="center">
+  <b><i>"The net is vast and infinite."</i></b>
+</p>
 
-## 🛠️ Tech Stack
+<p align="center">
+  <h2>🛠️ Tech Stack</h2>
+</p>
 
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -17,14 +21,18 @@
 
 <br><br><br> <!-- Espaço extra para o GIF -->
 
-## 📊 GitHub Stats
+<p align="center">
+  <h2>📊 GitHub Stats</h2>
+</p>
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=4&theme=midnight-purple"/>
 </div>
 
-## 📬 Contact
+<p align="center">
+  <h2>📬 Contact</h2>
+</p>
 
 <div>
   <a href="https://discord.gg/wTCJUGUJ" target="_blank">
