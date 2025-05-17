@@ -1,4 +1,6 @@
-### Hey there, I'm Daniel Macedo 👋
+# ![Banner](https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Banner-Cyberpunk.png)
+
+### "The net is vast and infinite."
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
