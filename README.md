@@ -1,5 +1,10 @@
 <img src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/BannerCyberpunk.png" alt="Banner Cyberpunk" width="100%" />
 
+<!-- Gif flutuando no topo direito -->
+<div align="right">
+  <img src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" width="150px" />
+</div>
+
 ### "The net is vast and infinite."
 
 ## 🛠️ Tech Stack
@@ -12,10 +17,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="right" width="150px" alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" />
 </div>
 
-<br><br>
+<br>
 
 ## 📊 GitHub Stats
 
