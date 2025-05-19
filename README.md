@@ -1,8 +1,7 @@
 <img src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/BannerCyberpunk.png" alt="Banner Cyberpunk" width="100%" />
 
 <p align="center">
-  <b><i>"The net is vast and infinite."</i></b><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Daniel-Macedo-dev.Daniel-Macedo-dev" alt="visitor badge"/>
+  <b><i>"The net is vast and infinite."</i></b>
 </p>
 
 <p align="center">
