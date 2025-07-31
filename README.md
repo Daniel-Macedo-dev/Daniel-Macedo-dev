@@ -19,7 +19,7 @@
   <img align="right" width="130px" alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" />
 </div>
 
-<br><br><br> 
+<br><br><br> <!-- Espaço extra para o GIF -->
 
 <p align="center">
   <h2>📊 GitHub Stats</h2>
@@ -48,6 +48,7 @@
 
 <br>
 
+<!-- Animação Pac-Man no lugar da cobrinha -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel-Macedo-dev/Daniel-Macedo-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniel-Macedo-dev/Daniel-Macedo-dev/output/pacman-contribution-graph.svg">
