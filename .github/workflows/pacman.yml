@@ -2,7 +2,7 @@ name: Generate Pacman Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -20,12 +20,9 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Checkout pacman repo
-        uses: actions/checkout@v3
-        with:
-          repository: platane/pacman-github-contribution-graph
-          path: pacman-github-contribution-graph
-          fetch-depth: 1
+      - name: Clone pacman repo
+        run: |
+          git clone --depth=1 https://github.com/platane/pacman-github-contribution-graph.git
 
       - name: Install dependencies and generate
         run: |
