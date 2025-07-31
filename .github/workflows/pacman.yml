@@ -1,40 +1,30 @@
-name: Generate Pacman Graph
+name: generate pacman game
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 */24 * * *"  # atualiza todo dia
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          persist-credentials: false
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          node-version: '20'
-
-      - name: Clone pacman repo
-        run: |
-          git clone --depth=1 https://github.com/platane/pacman-github-contribution-graph.git
-
-      - name: Install dependencies and generate
-        run: |
-          cd pacman-github-contribution-graph
-          npm install
-          npm run generate -- --user Daniel-Macedo-dev --output ../output --dark true
-
-      - name: Commit and push output
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add output
-          git commit -m "Update Pacman graph" || echo "Nothing to commit"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Daniel-Macedo-dev/Daniel-Macedo-dev.git
-          git push origin main
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
