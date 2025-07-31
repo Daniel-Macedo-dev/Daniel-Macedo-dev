@@ -21,8 +21,7 @@ jobs:
           node-version: '20'
 
       - name: Clone Pacman Generator
-        run: |
-          git clone https://github.com/platane/pacman-github-contribution-graph.git
+        run: git clone https://github.com/platane/pacman-github-contribution-graph.git
 
       - name: Install dependencies and generate
         run: |
@@ -34,7 +33,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add output || echo "Nothing to add"
+          git add output
           git commit -m "Update Pacman graph" || echo "Nothing to commit"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Daniel-Macedo-dev/Daniel-Macedo-dev.git
-          git push origin main || echo "Nothing to push"
+          git push origin main
