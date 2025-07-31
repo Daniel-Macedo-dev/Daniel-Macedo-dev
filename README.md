@@ -19,7 +19,7 @@
   <img align="right" width="130px" alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" />
 </div>
 
-<br><br><br> <!-- Espaço extra para o GIF -->
+<br><br><br>
 
 <p align="center">
   <h2>📊 GitHub Stats</h2>
