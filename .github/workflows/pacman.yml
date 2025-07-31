@@ -1,0 +1,17 @@
+name: Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gera o gráfico do Pac-Man com os commits
+        uses: Platane/pacman-github-contribution-graph@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: Daniel-Macedo-dev
+          output_path: ./output
