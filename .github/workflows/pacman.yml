@@ -2,32 +2,36 @@ name: Generate Pacman Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' 
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20'
 
-      - name: Install and run Pacman generator
+      - name: Clone Pacman Generator
         run: |
           git clone https://github.com/platane/pacman-github-contribution-graph.git
+
+      - name: Install dependencies and generate
+        run: |
           cd pacman-github-contribution-graph
           npm install
           npm run generate -- --user Daniel-Macedo-dev --output ../output --dark true
 
-      - name: Commit Pacman SVGs
+      - name: Commit and push output
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add output
-          git commit -m "Update pacman contribution graph" || echo "No changes"
-          git push
+          git add output || echo "Nothing to add"
+          git commit -m "Update Pacman graph" || echo "Nothing to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Daniel-Macedo-dev/Daniel-Macedo-dev.git HEAD:main || echo "Nothing to push"
