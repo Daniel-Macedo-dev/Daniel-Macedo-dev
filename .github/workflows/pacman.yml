@@ -1,4 +1,4 @@
-name: Generate Pac-Man Graph
+name: Generate Pacman Graph
 
 on:
   schedule:
@@ -9,23 +9,25 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Clone repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Pac-Man
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install and run Pacman generator
         run: |
-          git clone https://github.com/leandroordonez/pacman-github-contribution-graph.git
+          git clone https://github.com/platane/pacman-github-contribution-graph.git
           cd pacman-github-contribution-graph
           npm install
-          npm run generate -- \
-            --user Daniel-Macedo-dev \
-            --output ../output \
-            --dark true
+          npm run generate -- --user Daniel-Macedo-dev --output ../output --dark true
 
-      - name: Commit Pac-Man SVGs
+      - name: Commit Pacman SVGs
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add output
-          git commit -m "update pacman contribution graph" || echo "No changes to commit"
+          git commit -m "Update pacman contribution graph" || echo "No changes"
           git push
