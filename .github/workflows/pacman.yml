@@ -2,7 +2,7 @@ name: Generate Pacman Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: '0 0 * * *'  
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -34,4 +36,5 @@ jobs:
           git config user.email github-actions@github.com
           git add output || echo "Nothing to add"
           git commit -m "Update Pacman graph" || echo "Nothing to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Daniel-Macedo-dev/Daniel-Macedo-dev.git HEAD:main || echo "Nothing to push"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Daniel-Macedo-dev/Daniel-Macedo-dev.git
+          git push origin main || echo "Nothing to push"
