@@ -35,9 +35,9 @@
 </p>
 
 <div>
-  <a href="https://discord.gg/wTCJUGUJ" target="_blank">
+<a href="https://discord.com/users/502983199069044738" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+</a>
   <a href="mailto:danielmacedosilva11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
