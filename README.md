@@ -52,12 +52,12 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="images/breakout-dark.svg"
+      srcset="images/pacman-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="images/breakout-light.svg"
+      srcset="images/pacman-light.svg"
     />
-    <img alt="Breakout Game" src="images/breakout-light.svg" />
+    <img alt="Pac-Man Game" src="images/pacman-light.svg" />
   </picture>
 </div>
