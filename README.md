@@ -5,15 +5,15 @@
 </p>
 
 <!-- ABOUT ME -->
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
 <img alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" width="150px" align="right">
 
-- I'm **Daniel Macedo**, currently a **Developer in Progress**.  
-- Main technologies: **Java, Spring Boot, SQL, and APIs**.  
-- Currently learning **Spring Boot, Hibernate, and Software Architecture**.  
-- Ask me about: **Tech, Games, or Anime**.  
-- Genre: **Cyberpunk lover**
+- <img src="images/hacker.png" width="20px" /> I'm **Daniel Macedo**, currently a **Developer in Progress**.  
+- <img src="images/astronaut.png" width="20px" /> Main technologies: **Java, Spring Boot, SQL, and APIs**.  
+- <img src="images/interactive-learning.png" width="20px" /> Currently learning **Spring Boot, Hibernate, and Software Architecture**.  
+- <img src="images/magician-hat.png" width="20px" /> Ask me about: **Tech, Games, or Anime**.  
+- <img src="images/cyberspace.png" width="20px" /> Genre: **Cyberpunk lover**
 
 <!-- GITHUB STATS -->
 ## 🚀 GitHub Overview & Tech Stack
