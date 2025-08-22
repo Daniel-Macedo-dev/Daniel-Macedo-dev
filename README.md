@@ -18,13 +18,14 @@
 <!-- GITHUB STATS -->
 ## 🚀 GitHub Overview & Tech Stack
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=4&theme=midnight-purple"/>
+<div align="center" style="margin-bottom: 30px;">
+  <img height="180em" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=4&theme=midnight-purple"/>
 </div>
 
+<br>
 <!-- TECH STACK ICONS -->
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 30px;">
   <img alt="CSharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -32,6 +33,7 @@
   <img alt="Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
+
 
 <!-- CONTACT -->
 ## 📬 Contact
