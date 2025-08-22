@@ -57,3 +57,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniel-Macedo-dev/Daniel-Macedo-dev/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Daniel-Macedo-dev/Daniel-Macedo-dev/output/pacman-contribution-graph.svg">
 </picture>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
