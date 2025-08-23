@@ -58,3 +58,4 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Daniel-Macedo-dev/Daniel-Macedo-dev/output/pacman-contribution-graph.svg">
 </picture>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5b00b0&height=120&section=footer"/>
