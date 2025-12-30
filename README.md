@@ -7,6 +7,7 @@
 <!-- ABOUT ME -->
 ## 🙋‍♂️ About Me
 
+
 <img alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" width="150px" align="right">
 
 - <img src="images/hacker.png" width="20px" /> I'm **Daniel Macedo**, currently a **Developer in Progress**.
