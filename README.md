@@ -24,6 +24,7 @@
 </div>
 
 <br>
+
 <!-- TECH STACK ICONS -->
 <div align="center" style="margin-top: 30px;">
   <img alt="CSharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
