@@ -18,10 +18,10 @@
 ## 🚀 GitHub Overview & Tech Stack
 
 <div align="center" style="margin-bottom: 30px;">
-  <img height="180em" style="margin-right: 20px;"
-    src="https://github-readme-stats.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=false" />
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=4&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&hide_border=false"/>
+  <img height="180" style="margin-right: 20px;"
+    src="https://github-readme-stats-mu-sooty-49.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=false" />
+  <img height="180"
+    src="https://github-readme-stats-mu-sooty-49.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=4&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&hide_border=false"/>
 </div>
 
 <br>
