@@ -9,10 +9,10 @@
 
 <img alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" width="150px" align="right">
 
-- <img src="images/hacker.png" width="20px" /> I'm **Daniel Macedo**, currently a **Developer in Progress**.
-- <img src="images/astronaut.png" width="20px" /> Main technologies: **Java, SQL, NoSQL, Spring Boot and APIs**.  
-- <img src="images/interactive-learning.png" width="20px" /> Currently learning **Spring Boot, Hibernate, and Software Architecture**.  
-- <img src="images/magician-hat.png" width="20px" /> Ask me about: **Tech, Games, or Anime**.
+- <img src="images/icons8-code-50.png" width="20px" /> I'm **Daniel Macedo**, currently a **Developer in Progress**.
+- <img src="images/icons8-star-50.png" width="20px" /> Main technologies: **Java, SQL, NoSQL, Spring Boot and APIs**.  
+- <img src="images/icons8-learning-64.png" width="20px" /> Currently learning **Spring Boot, Hibernate, and Software Architecture**.  
+- <img src="images/icons8-oni-32.png" width="20px" /> Ask me about: **Tech, Games, or Anime**.
 
 <!-- GITHUB STATS -->
 ## 🚀 GitHub Overview & Tech Stack
