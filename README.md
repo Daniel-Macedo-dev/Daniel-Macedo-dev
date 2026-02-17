@@ -19,8 +19,10 @@
 ## 🚀 GitHub Overview & Tech Stack
 
 <div align="center" style="margin-bottom: 30px;">
-  <img height="180em" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=4&theme=midnight-purple"/>
+  <img height="180em" style="margin-right: 20px;"
+    src="https://github-readme-stats.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=false" />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=4&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&hide_border=false"/>
 </div>
 
 <br>
@@ -36,18 +38,17 @@
   <img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
-
 <!-- CONTACT -->
 ## 📬 Contact
 <div align="center" style="margin-top: 10px;">
   <a href="https://discord.com/users/502983199069044738" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=000000" />
   </a>
   <a href="mailto:danielmacedosilva11@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000" />
   </a>
   <a href="https://www.linkedin.com/in/daniel-macedo-dev/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000" />
   </a>
 </div>
 <br>
@@ -58,5 +59,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniel-Macedo-dev/Daniel-Macedo-dev/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Daniel-Macedo-dev/Daniel-Macedo-dev/output/pacman-contribution-graph.svg">
 </picture>
+
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5b00b0&height=120&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
