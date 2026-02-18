@@ -7,7 +7,7 @@
 <!-- ABOUT ME -->
 ## 🙋‍♂️ About Me
 
-<img alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/Cyberpunk.gif" width="150px" align="right">
+<img alt="DanielCyberpunk" src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/faces.gif" width="250px" align="right">
 
 - <img src="images/icons8-code-50.png" width="20px" /> I'm **Daniel Macedo**, currently a **Developer in Progress**.
 - <img src="images/icons8-star-50.png" width="20px" /> Main technologies: **Java, SQL, NoSQL, Spring Boot and APIs**.  
