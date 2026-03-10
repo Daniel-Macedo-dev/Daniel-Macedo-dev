@@ -34,12 +34,12 @@
 
 <div align="center">
   <img
-    height="180"
+    width="40%"
     src="https://github-readme-stats-mu-sooty-49.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true"
     alt="GitHub Stats"
   />
   <img
-    height="180"
+    width="40%"
     src="https://github-readme-stats-mu-sooty-49.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=6&card_width=420&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"
     alt="Top Languages"
   />
