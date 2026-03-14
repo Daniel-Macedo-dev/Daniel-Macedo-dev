@@ -5,7 +5,6 @@
 <p align="center">
   <b><i>"The net is vast and infinite."</i></b>
 </p>
-
 <br>
 
 <!-- ABOUT ME -->
