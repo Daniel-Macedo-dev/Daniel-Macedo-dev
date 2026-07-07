@@ -34,7 +34,7 @@
 <div align="center">
   <img
     width="45%"
-    src="https://github-readme-stats-mu-sooty-49.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true"
+    src="https://github-readme-stats-mu-sooty-49.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&v=2"
     alt="GitHub Stats"
   />
   <img
