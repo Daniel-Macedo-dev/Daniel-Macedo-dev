@@ -48,7 +48,7 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Daniel-Macedo-dev&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+    src="./profile/streak.svg"
     alt="GitHub Streak"
   />
 </div>
