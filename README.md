@@ -2,6 +2,7 @@
   <img src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/blackBanner.png" alt="black banner" width="100%" />
 </div>
 
+
 <p align="center">
   <b><i>"The net is vast and infinite."</i></b>
 </p>
