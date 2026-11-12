@@ -12,6 +12,15 @@
   <img src="https://skillicons.dev/icons?i=tailwind,threejs,postgres,supabase,sqlite,docker,githubactions,git,vitest&theme=dark" alt="Tailwind CSS, Three.js, PostgreSQL, Supabase, SQLite, Docker, GitHub Actions, Git, Vitest">
 </p>
 
+<h3 align="center">Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/Daniel-Macedo-dev/Finora"><img src="./images/projects/finora.svg" alt="Finora: personal finance and purchase planning (Java, Spring Boot, PostgreSQL, React)" width="49%"></a>
+  <a href="https://github.com/DeD-TechStack/BreakInv"><img src="./images/projects/breakinv.svg" alt="BreakInv: local-first investment portfolio desktop app (Java, JavaFX, SQLite)" width="49%"></a>
+  <a href="https://github.com/DeD-TechStack/AppMaternidade"><img src="./images/projects/appmaternidade.svg" alt="AppMaternidade: baby routine, shared care and community for parents (React, Supabase)" width="49%"></a>
+  <a href="https://github.com/Daniel-Macedo-dev/forjai-site"><img src="./images/projects/forjai.svg" alt="FORJAI: on-demand 3D printing website (React, Three.js, Tailwind CSS)" width="49%"></a>
+</p>
+
 <h3 align="center">Activity</h3>
 
 <p align="center">
@@ -19,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daniel-Macedo-dev/Daniel-Macedo-dev/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating my contribution graph" width="100%">
+  <img src="./profile-3d-contrib/profile-custom.svg" alt="3D contribution skyline with yearly stats" width="100%">
 </p>
 
 <h3 align="center">Connect</h3>
