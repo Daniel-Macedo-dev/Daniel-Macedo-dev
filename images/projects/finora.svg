@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="170" viewBox="0 0 480 170" role="img" aria-label="Finora: Personal finance and purchase planning, multi-user, with deterministic analysis of your own data.">
+  <title>Finora</title>
+  <rect x="1" y="1" width="478" height="168" rx="12" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <path d="M24 22h3v3h-3zM29 22h3v3h-3zM24 27h3v3h-3z" fill="#8b949e"/>
+  <text x="42" y="31" font-family="Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#8b949e">Daniel-Macedo-dev/Finora</text>
+  <text x="456" y="31" text-anchor="end" font-family="Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#ffa657">Full-stack</text>
+  <text x="24" y="61" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#79c0ff">Finora</text>
+  <text x="24" y="86" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="14.5" fill="#c9d1d9">Personal finance and purchase planning, multi-user,</text>
+  <text x="24" y="107" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="14.5" fill="#c9d1d9">with deterministic analysis of your own data.</text>
+  <rect x="24" y="126" width="49" height="24" rx="12" fill="#0d1117" stroke="#30363d"/><text x="48.5" y="142.5" text-anchor="middle" font-family="Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#a5d6ff">Java</text>
+  <rect x="81" y="126" width="101" height="24" rx="12" fill="#0d1117" stroke="#30363d"/><text x="131.5" y="142.5" text-anchor="middle" font-family="Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#a5d6ff">Spring Boot</text>
+  <rect x="190" y="126" width="94" height="24" rx="12" fill="#0d1117" stroke="#30363d"/><text x="237.0" y="142.5" text-anchor="middle" font-family="Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#a5d6ff">PostgreSQL</text>
+  <rect x="292" y="126" width="57" height="24" rx="12" fill="#0d1117" stroke="#30363d"/><text x="320.5" y="142.5" text-anchor="middle" font-family="Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#a5d6ff">React</text>
+  <rect x="357" y="126" width="94" height="24" rx="12" fill="#0d1117" stroke="#30363d"/><text x="404.0" y="142.5" text-anchor="middle" font-family="Consolas,'SF Mono',Menlo,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#a5d6ff">TypeScript</text>
+</svg>
