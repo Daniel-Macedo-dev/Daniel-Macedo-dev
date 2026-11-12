@@ -1,108 +1,94 @@
 <div align="center">
-  <img src="https://github.com/Daniel-Macedo-dev/Daniel-Macedo-dev/blob/main/images/blackBanner.png" alt="black banner" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/banner-light.svg">
+    <img src="./images/banner-dark.svg" alt="Daniel Macedo, Backend & Full-Stack Developer" width="100%">
+  </picture>
 </div>
 
 <p align="center">
   <b><i>"The net is vast and infinite."</i></b>
 </p>
-<br>
 
-<!-- ABOUT ME -->
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="images/icons8-code-50.png" width="20px" /> I'm <b>Daniel Macedo</b>, currently a <b>Developer in Progress</b>.
+  💻 I'm <b>Daniel Macedo</b>, a backend-focused full-stack developer from São Paulo.<br>
+  ⚙️ I build <b>REST APIs with Java + Spring Boot</b> and <b>web apps with TypeScript, React and Next.js</b>.<br>
+  🐍 I also ship <b>Python</b> tools: FastAPI services and Streamlit data dashboards.<br>
+  🧠 Currently learning <b>software architecture, Hibernate and AI-assisted development</b>.<br>
+  🎮 Ask me about <b>tech, games or anime</b>.
+</p>
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=dark">
+    <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=light" alt="Java, Spring, Python, FastAPI">
+  </picture>
+</p>
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,threejs&theme=dark">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,threejs&theme=light" alt="TypeScript, React, Next.js, Vite, Tailwind CSS, Three.js">
+  </picture>
+</p>
+
+<p align="center"><b>Databases &amp; Tools</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,githubactions,postman&theme=dark">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,githubactions,postman&theme=light" alt="PostgreSQL, MySQL, MongoDB, Docker, Git, GitHub Actions, Postman">
+  </picture>
+</p>
+
+<p align="center"><b>Data &amp; Testing</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="pandas"> <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FFFFFF" alt="Streamlit"> <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=FFFFFF" alt="Plotly"> <img src="https://img.shields.io/badge/JUnit5-000000?style=for-the-badge&logo=junit5&logoColor=FFFFFF" alt="JUnit 5"> <img src="https://img.shields.io/badge/pytest-000000?style=for-the-badge&logo=pytest&logoColor=FFFFFF" alt="pytest"> <img src="https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=FFFFFF" alt="Vitest">
+</p>
+
+<h2 align="center">GitHub Overview</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img src="./profile/stats-light.svg" alt="GitHub stats" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img src="./profile/top-langs-light.svg" alt="Top languages" width="49%">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="images/icons8-star-50.png" width="20px" /> Main technologies: <b>Java, SQL, NoSQL, Spring Boot and APIs</b>.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
+    <img src="./profile/streak-light.svg" alt="GitHub streak">
+  </picture>
 </p>
 
-<p align="center">
-  <img src="images/icons8-learning-64.png" width="20px" /> Currently learning <b>Spring Boot, Hibernate, and Software Architecture</b>.
-</p>
-
-<p align="center">
-  <img src="images/icons8-oni-32.png" width="20px" /> Ask me about: <b>Tech, Games, or Anime</b>.
-</p>
-
-<br>
-
-<!-- GITHUB STATS -->
-<h2 align="center">GitHub Overview & Tech Stack</h2>
-
-<div align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats-mu-sooty-49.vercel.app/api?username=Daniel-Macedo-dev&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&v=2"
-    alt="GitHub Stats"
-  />
-  <img
-    width="45%"
-    src="https://github-readme-stats-mu-sooty-49.vercel.app/api/top-langs/?username=Daniel-Macedo-dev&layout=compact&langs_count=6&card_width=420&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"
-    alt="Top Languages"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img
-    src="./profile/streak.svg"
-    alt="GitHub Streak"
-  />
-</div>
-
-<br>
-
-<!-- TECHNOLOGIES -->
-<h2 align="center">Technologies</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=FFFFFF&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=FFFFFF&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FFFFFF&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=000000" />
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=000000" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=000000" />
-</div>
-
-<br>
-
-<!-- CONTACT -->
-<h2 align="center">Contact</h2>
-
-<div align="center">
-  <a href="https://discord.com/users/502983199069044738" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=000000" />
-  </a>
-  <a href="mailto:danielmacedosilva11@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000" />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-macedo-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000" />
-  </a>
-</div>
-
-<br>
-
-<!-- PACMAN CONTRIBUTION GRAPH -->
 <h2 align="center">Contribution Graph</h2>
 
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel-Macedo-dev/Daniel-Macedo-dev/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniel-Macedo-dev/Daniel-Macedo-dev/output/pacman-contribution-graph.svg">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Daniel-Macedo-dev/Daniel-Macedo-dev/output/pacman-contribution-graph.svg">
   </picture>
-</div>
+</p>
 
-<br>
+<h2 align="center">Contact</h2>
 
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-macedo-dev/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"></a> <a href="mailto:danielmacedosilva11@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"></a> <a href="https://discord.com/users/502983199069044738"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"></a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<p align="center">If you like it, fork 🍴 and star ⭐</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:30363d&height=120&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:d0d7de&height=120&section=footer" alt="">
+</picture>
