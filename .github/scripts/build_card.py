@@ -36,9 +36,9 @@ SECTIONS = [
     ]),
     ("Stack", [
         ("Backend", "Spring Boot, JPA/Hibernate, FastAPI"),
-        ("Frontend", "React, Next.js, Vite, Tailwind CSS"),
+        ("Frontend", "React, Next.js, Vite, Tailwind CSS, Three.js"),
         ("Desktop", "JavaFX"),
-        ("Data", "PostgreSQL, Supabase, Flyway, SQLite"),
+        ("Data", "PostgreSQL, MySQL, Supabase, Flyway, SQLite"),
         ("Testing", "JUnit 5, Testcontainers, Vitest, Playwright"),
         ("DevOps", "Docker, GitHub Actions, Maven"),
     ]),
