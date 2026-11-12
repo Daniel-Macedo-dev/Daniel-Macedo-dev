@@ -25,7 +25,7 @@
 <p align="center"><b>Backend</b></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpy%2Cfastapi&theme=dark">
     <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=light" alt="Java, Spring, Python, FastAPI">
   </picture>
 </p>
@@ -33,7 +33,7 @@
 <p align="center"><b>Frontend</b></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,threejs&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Cthreejs&theme=dark">
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,threejs&theme=light" alt="TypeScript, React, Next.js, Vite, Tailwind CSS, Three.js">
   </picture>
 </p>
@@ -41,14 +41,14 @@
 <p align="center"><b>Databases &amp; Tools</b></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,githubactions,postman&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Cdocker%2Cgit%2Cgithubactions%2Cpostman&theme=dark">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,githubactions,postman&theme=light" alt="PostgreSQL, MySQL, MongoDB, Docker, Git, GitHub Actions, Postman">
   </picture>
 </p>
 
 <p align="center"><b>Data &amp; Testing</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="pandas"> <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FFFFFF" alt="Streamlit"> <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=FFFFFF" alt="Plotly"> <img src="https://img.shields.io/badge/JUnit5-000000?style=for-the-badge&logo=junit5&logoColor=FFFFFF" alt="JUnit 5"> <img src="https://img.shields.io/badge/pytest-000000?style=for-the-badge&logo=pytest&logoColor=FFFFFF" alt="pytest"> <img src="https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=FFFFFF" alt="Vitest">
+  <img src="https://img.shields.io/badge/pandas-24292f?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="pandas"> <img src="https://img.shields.io/badge/Streamlit-24292f?style=for-the-badge&logo=streamlit&logoColor=FFFFFF" alt="Streamlit"> <img src="https://img.shields.io/badge/Plotly-24292f?style=for-the-badge&logo=plotly&logoColor=FFFFFF" alt="Plotly"> <img src="https://img.shields.io/badge/JUnit5-24292f?style=for-the-badge&logo=junit5&logoColor=FFFFFF" alt="JUnit 5"> <img src="https://img.shields.io/badge/pytest-24292f?style=for-the-badge&logo=pytest&logoColor=FFFFFF" alt="pytest"> <img src="https://img.shields.io/badge/Vitest-24292f?style=for-the-badge&logo=vitest&logoColor=FFFFFF" alt="Vitest">
 </p>
 
 <h2 align="center">GitHub Overview</h2>
@@ -67,7 +67,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
-    <img src="./profile/streak-light.svg" alt="GitHub streak">
+    <img src="./profile/streak-light.svg" alt="GitHub streak" width="98.5%">
   </picture>
 </p>
 
@@ -83,12 +83,12 @@
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-macedo-dev/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"></a> <a href="mailto:danielmacedosilva11@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"></a> <a href="https://discord.com/users/502983199069044738"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"></a>
+  <a href="https://www.linkedin.com/in/daniel-macedo-dev/"><img src="https://img.shields.io/badge/LinkedIn-24292f?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"></a> <a href="mailto:danielmacedosilva11@gmail.com"><img src="https://img.shields.io/badge/Gmail-24292f?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"></a> <a href="https://discord.com/users/502983199069044738"><img src="https://img.shields.io/badge/Discord-24292f?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord"></a>
 </p>
 
 <p align="center">If you like it, fork 🍴 and star ⭐</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:30363d&height=120&section=footer">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:d0d7de&height=120&section=footer" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:161b22%2C100:6e7681&height=120&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d0d7de,100:57606a&height=120&section=footer" alt="">
 </picture>
