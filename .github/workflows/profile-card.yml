@@ -1,0 +1,52 @@
+name: Update profile card
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-card.yml"
+      - ".github/scripts/build_card.py"
+  workflow_dispatch:
+
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build neofetch card
+        run: python .github/scripts/build_card.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Streak card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&card_width=1000&card_height=200&hide_border=false&border=30363d&border_radius=14&background=161b22&ring=79c0ff&fire=ffa657&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffa657&sideLabels=a5d6ff&dates=8b949e&stroke=30363d
+          path: profile/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/card.svg profile/streak-dark.svg
+          git commit -m "Update profile card" || exit 0
+          git pull --rebase
+          git push
